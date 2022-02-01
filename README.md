@@ -45,3 +45,4 @@ SQL needed to profile a generic CS Sparx implementation.
 36 | t_stereotype | Profiles t_stereotypes - not linked to other Stereotypes 
 37 | t_xref | Profile t_xref - not used for relations or columns
 38 | Z MD.xlsx | Has sample Sparx DB metadata
+39 | Sparx Design Patterns.pdf | Describes the Sparx design patterns discovered using this SQL 
